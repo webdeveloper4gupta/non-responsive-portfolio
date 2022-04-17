@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lightblue;
+}
+.container{
+    display:grid;
+    grid-template-columns: 500px auto; 
+ background-color: grey;
+}
+.aman1 img{
+    border-radius:50%;
+}
+.aman2{
+    text-align:right;
+   
+    padding-top:40px;
+   
+}
+#sukritan1 {
+display:inline-block;
+text-decoration: none;
+padding-right:80px;
+
+}
+#sukritan1 li{
+    
+    margin-left:40px;
+    margin-right:10px;
+    display:inline-block;
+    font-size:25px;
+    
+}
+#sukritan1 li a{
+    text-decoration:none;
+    color:black;
+}
+#sukritan2{
+    padding-top:150px;
+    text-align:left;
+    font-size:40px;
+    opacity:0.8;
+}
+/* styling of main */
+main{
+    margin-top:40px;
+}
+#sukritan3{
+    font-size:60px;
+    text-align: center;
+    margin-bottom:30px;
+}
+#sukritan4{
+    margin-left:40px;
+    margin-right:40px;
+    border:3px solid black;
+    font-size:25px;
+}
+#sukritan5{
+    margin-top:30px;
+    text-align:center;
+    text-align: center;
+    margin-bottom:30px;
+    font-size:50px;
+}
+#sukritan6{
+    margin-left:40px;
+    margin-right:40px;
+    border:3px solid black;
+    font-size:25px;
+}
+#sukritan6-1{
+    margin-bottom:10px;
+}
+#sukritan6-1-1{
+    font-size:35px;
+}
+#sukritan6-2{
+    margin-top:10px;
+}
+#sukritan6-2-1{
+    font-size: 35px;
+}
+#mahajan1{
+    margin:20px;
+    width:200px;
+    height:50px;
+    text-align:center;
+   margin-left:600px;
+   background-color:orange;
+}
+#mahajan1 a{
+    text-decoration:none;
+    color:black;
+    font-size:15px;
+}
+footer{
+    height:41vh;
+    background-color: #132;
+}
+#footer1{
+    margin-right:120px;
+    float:right;
+}
+#footer1-1{
+    font-size: 40px;
+}
+#footer1-2{
+    list-style: none;
+    font-size: 30px;
+    color:black;
+    margin-bottom:10px;
+}
+#footer1-2 li{
+    text-align: center;
+    margin-bottom:10px;
+}
+#footer1-2 li a{
+    color:silver;
+    
+    text-decoration:none;
+}
+#footer2{
+    margin-right:180px;
+    float:right;
+}
+#footer2-1{
+    font-size: 40px;
+}
+#footer2-2{
+    list-style: none;
+    font-size: 30px;
+    color:black;
+    margin-bottom:10px;
+}
+#footer2-2 li{
+    text-align: left;
+    margin-bottom:10px;
+}
+#footer2-2 li a{
+    color:silver;
+    
+    text-decoration:none;
+}
+#footer3{
+    margin-right:180px;
+    margin-left:150px;
+}
+#footer3-1{
+    font-size: 40px;
+}
+#footer3-2{
+    list-style: none;
+    font-size: 30px;
+    color:silver;
+    margin-bottom:10px;
+}
+#footer3-2 li{
+    text-align: left;
+    margin-bottom:10px;
+}
+#k{
+    padding:10px;
+    font-size: 25px;
+    text-align: center;
+    color:white;
+    margin-bottom:20px;
+}
